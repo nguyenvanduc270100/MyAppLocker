@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.percentlayout.widget.PercentRelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:background="@drawable/background_tutorial"
+    android:fitsSystemWindows="true"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <ImageView
+        android:gravity="bottom|right|center_vertical|center_horizontal|center"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:src="@drawable/ic_tutorial_app_icon"
+        android:scaleType="centerCrop"
+        android:foregroundGravity="bottom|right|center_vertical|center_horizontal|center"
+        android:alpha="0.1"/>
+</androidx.percentlayout.widget.PercentRelativeLayout>

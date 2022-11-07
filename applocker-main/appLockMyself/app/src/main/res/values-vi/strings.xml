@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="language">Ngôn ngữ</string>
+    <string name="app_name">Locker</string>
+    <string name="language_English">Tiếng Anh</string>
+    <string name="language_VietNam">Tiếng Việt</string>
+    <string name="btn_allow">Cho phép</string>
+    <string name="tutorial_welcome_0">Chào mừng bạn đến với AppLock</string>
+    <string name="tutorial_welcome_1">Ứng dụng này sẽ giúp bảo vệ dữ liệu nhạy cảm của bạn khỏi những con mắt tò mò.</string>
+    <string name="btn_continue">Tiếp tục</string>
+    <string name="tutorial_usageaccess">Cube AppLock cần quyền \'Truy cập sử dụng\' để phát hiện các ứng dụng được bảo vệ. Vui lòng cấp quyền cho ứng dụng.</string>
+    <string name="tutorial_overlay">Ứng dụng cần quyền \'chạy đè\' để hiển thị màn hình khóa.</string>
+    <string name="bottom_app">Ứng dung</string>
+    <string name="bottom_theme">Giao diện</string>
+    <string name="bottom_setting">Cài đặt</string>
+    <string name="tab_allApp">Tất cả</string>
+    <string name="tab_installedApp">Cài đặt</string>
+    <string name="tab_favoriteApp">Yêu thích</string>
+    <string name="notification_no_app">Không có app</string>
+    <string name="access_permission">" cấp quyền sử dụng ứng dụng"</string>
+    <string name="set_password">" Đặt mật khẩu"</string>
+    <string name="confirm_password">Nhập lại mật khẩu</string>
+    <string name="enter_password">Nhập mật khẩu</string>
+    <string name="error_password">Sai mật khẩu</string>
+    <string name="permission_one">ACTION USAGE ACCESS SETTINGS</string>
+    <string name="permission_two">ACTION USAGE ACCESS SETTINGS</string>
+    <string name="error_permission_usage">Quyền truy cập sử dụng chưa được cấp!</string>
+    <string name="error_permission_disoverplay">Quyền truy chạy đè chưa được cấp!</string>
+    <string name="share">Chia sẻ</string>
+    <string name="rate">Đánh giá tôi năm sao!</string>
+    <string name="terms">Điều khoản sử dụng</string>
+    <string name="version">Phiên bản 1.0.0</string>
+    <string name ="privacy">Điều khoản sử dụng</string>
+    <string name="content_privacy">
+        Privacy Applock có nhiều chế độ mã hóa khác như vân tay, mã riêng, hình ảnh… Ngoài ra, ứng dụng này còn có chức năng chụp ảnh các đối tượng truy cập trái phép để bạn có phương án đề phòng. Ngoài ra, phần mềm khóa ứng dụng Privacy Applock còn hỗ trợ người dùng chặn cuộc gọi đến hoặc chặn tin nhắn rác từ các phần mềm nhắn tin khác ... Ứng dụng AppLock cho phép khóa rất nhiều nội dung như: hình ảnh, âm thanh, ứng dụng, trình duyệt, ... Như vậy, tất cả nội dung điện thoại sẽ được an toàn. Với thao tác cực kỳ đơn giản, bạn chỉ cần chọn nút kích hoạt (hình ổ khóa) tại ứng dụng. ứng dụng cần bảo mật trong AppLock. Vì vậy AppLock đã tự động thiết lập chương trình bảo mật cho ứng dụng đó. Và ngược lại, người dùng không muốn khóa ứng dụng nữa thì chỉ cần tắt nút kích hoạt. Bằng cách tối ưu hóa thao tác cài đặt, ứng dụng giúp người dùng sử dụng rất dễ dàng, chỉ cần một vài cú nhấp chuột là đã tạo được. chế độ riêng tư cho điện thoại của bạn. Để tránh sự tò mò của người khác về lịch sử duyệt web của bạn, AppLock tích hợp cả trình duyệt web riêng tư, không lưu lịch sử tìm kiếm, hoạt động như một web ẩn danh. Điều này giúp người dùng bảo mật thông tin và lịch sử cá nhân của bạn. Chính sách Bảo mật của chúng tôi có thể thay đổi và nó có thể không còn phù hợp với mong muốn của bạn. Chúng tôi sẽ cập nhật những thay đổi và chỉ ra những bổ sung. Bạn nên thường xuyên kiểm tra các thay đổi đối với tài liệu này. Nếu bạn không đồng ý với các điều khoản bổ sung, vui lòng không sử dụng phần mềm.
+    </string>
+    <string name="search">Tìm kiếm ...</string>
+    <string name="chose_language">For the best experience using the app, choose the language that\'s right for you</string>
+    <string name="chose_language_vgone">Để có trải nghiệm tốt nhất khi sử dụng ứng dụng, hãy chọn ngôn ngữ phù hợp với bạn</string>
+    <string name="choice_language">Chọn ngôn ngữ</string>
+</resources>

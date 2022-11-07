@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:fitsSystemWindows="true"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <include layout="@layout/bg_splash_screen"/>
+    <LinearLayout android:orientation="vertical"
+                  android:padding="20dp"
+                  android:layout_width="match_parent"
+                  android:layout_height="match_parent">
+        <Space
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="0.3"/>
+        <TextView
+            android:theme="@style/TutorialText.Title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/tutorial_welcome_0"/>
+        <Space
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="0.1"/>
+        <TextView
+            android:theme="@style/TutorialText.Paragraph"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/tutorial_welcome_1"/>
+        <Space
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="0.1"/>
+        <ImageView
+            android:theme="@style/TutorialImage"
+            android:layout_gravity="center"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:src="@drawable/img_tutorial_welcome"
+            android:layout_weight="1"/>
+        <Space
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="0.1"/>
+        <Space
+            android:layout_width="match_parent"
+            android:layout_height="20dp"/>
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="100dp">
+
+        <ImageButton
+            android:id="@+id/test"
+            android:layout_gravity="center"
+            android:layout_width="130dp"
+            android:layout_height="50dp"
+            android:background="@drawable/btn_tutorial" />
+            <TextView
+                android:layout_gravity="center"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/white"
+                android:text="@string/btn_continue"
+                android:textSize="25dp"/>
+
+        </FrameLayout>
+    </LinearLayout>
+</androidx.coordinatorlayout.widget.CoordinatorLayout>

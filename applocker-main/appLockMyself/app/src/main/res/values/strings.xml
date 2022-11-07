@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">Locker</string>
+
+    <!--bottom navigation-->
+    <string name="choice_language">Chose language</string>
+    <string name="language">Language</string>
+    <string name="language_English">English</string>
+    <string name="language_VietNam">Vietnamese</string>
+    <string name="chose_language">For the best experience using the app, choose the language that\'s right for you</string>
+    <string name="chose_language_vgone">Để có trải nghiệm tốt nhất khi sử dụng ứng dụng, hãy chọn ngôn ngữ phù hợp với bạn</string>
+
+    <!--tutorial Layout-->
+    <string name="btn_allow">Allow</string>
+    <string name="tutorial_welcome_0">Welcome to Cube AppLock</string>
+    <string name="tutorial_welcome_1">This app will help protect your sensitive data from prying eyes.Protected by DNT</string>
+    <string name="btn_continue">Continue</string>
+    <string name="tutorial_usageaccess">Cube AppLock needs \'Usage access\' permission to detect the protected apps. Please grant the permission to the app.</string>
+    <string name="tutorial_overlay">The app needs \'Overlay\' permission to display the lock screen.</string>
+
+    <!--bottom navigation-->
+    <string name="bottom_app">Apps</string>
+    <string name="bottom_theme">Theme</string>
+    <string name="bottom_setting">Setting</string>
+
+    <!--text TabLayout-->
+    <string name="tab_allApp">All</string>
+    <string name="tab_installedApp">Installed</string>
+    <string name="tab_favoriteApp">Favorite</string>
+    <string name="notification_no_app">No App</string>
+
+    <string name="permission_one">ACTION USAGE ACCESS SETTINGS</string>
+    <string name="permission_two">ACTION USAGE ACCESS SETTINGS</string>
+    <string name="access_permission">grant permission to use the application</string>
+
+    <string name="set_password">Set Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="error_password">Password incorrect</string>
+    <string name="error_permission_usage">usageaccess permission hasn`t been granted!</string>
+    <string name="error_permission_disoverplay">disoverplay permission has not been granted!</string>
+    <!--terms use-->
+    <string name ="privacy">Terms of use</string>
+    <string name="content_privacy">
+        Privacy Applock has many other encryption modes such as fingerprints, private codes, images... In addition, this application also has the function of taking pictures of unauthorized access objects for you to have a precaution plan. In addition, the Privacy Applock application lock software also supports users to block incoming calls or block spam messages from other messaging software ... AppLock application allows locking a lot of content such as: images, sounds bar, application, browser,... Thus, all phone content will be safe. With extremely simple operation, you just need to select the activation button (lock image) at the application. apps that need security in AppLock. So AppLock has automatically set up a security program for that application. And vice versa, users who do not want to lock the application anymore, just turn off the activation button. By optimizing the installation operation, the application makes it very easy for users to use, just a few clicks created. private mode for your phone. To avoid the curiosity of others about your web browsing history, AppLock integrates both a private web browser, without saving search history, acting as an anonymous web. This helps users keep your information and personal history secure. Our Privacy Policy is subject to change and it may no longer match your wishes. We will update the changes and point out the additions. You should regularly check for changes to this document. If you do not agree to the additional terms, please do not use the software.
+    </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="share">Share</string>
+    <string name="rate">Rate me five stars!</string>
+    <string name="terms">Terms of Use</string>
+    <string name="version">Version 1.0.0</string>
+
+    <string name="search">Sreach here ...</string>
+
+
+
+</resources>

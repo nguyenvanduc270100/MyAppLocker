@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/MT13/.gradle/caches/transforms-3/79e163a8bd635099c68bb4b8796548bb/transformed/GoodPinKeyPad-0.0.11/res/drawable/back.xml" value="0.1505" />
+        <entry key="..\:/Users/MT13/Desktop/New folder (2)/applocker-main/appLockMyself/app/src/main/res/drawable-v24/ic_back_all.xml" value="0.143" />
+        <entry key="..\:/Users/MT13/Desktop/New folder (2)/applocker-main/appLockMyself/app/src/main/res/drawable-v24/ic_next_white.xml" value="0.2005" />
+        <entry key="..\:/Users/MT13/Desktop/New folder (2)/applocker-main/appLockMyself/app/src/main/res/drawable/bg_tab_layout.xml" value="0.2005" />
+        <entry key="..\:/Users/MT13/Desktop/New folder (2)/applocker-main/appLockMyself/app/src/main/res/drawable/btn_chose_language.xml" value="0.1585" />
+        <entry key="..\:/Users/MT13/Desktop/New folder (2)/applocker-main/appLockMyself/app/src/main/res/drawable/btn_gradient.xml" value="0.18" />
+        <entry key="..\:/Users/MT13/Desktop/New folder (2)/applocker-main/appLockMyself/app/src/main/res/drawable/btn_language.xml" value="0.2005" />
+        <entry key="..\:/Users/MT13/Desktop/New folder (2)/applocker-main/appLockMyself/app/src/main/res/drawable/btn_tutorial.xml" value="0.2135" />
+        <entry key="..\:/Users/MT13/Desktop/New folder (2)/applocker-main/appLockMyself/app/src/main/res/drawable/gradient.xml" value="0.2135" />
+        <entry key="..\:/Users/MT13/Desktop/New folder (2)/applocker-main/appLockMyself/app/src/main/res/drawable/ic_back.xml" value="0.1585" />
+        <entry key="..\:/Users/MT13/Desktop/New folder (2)/applocker-main/appLockMyself/app/src/main/res/drawable/ic_language.xml" value="0.1585" />
+        <entry key="..\:/Users/MT13/Desktop/New folder (2)/applocker-main/appLockMyself/app/src/main/res/drawable/ic_share.xml" value="0.1585" />
+        <entry key="..\:/Users/MT13/Desktop/New folder (2)/applocker-main/appLockMyself/app/src/main/res/drawable/ic_terms.xml" value="0.143" />
+        <entry key="..\:/Users/MT13/Desktop/New folder (2)/applocker-main/appLockMyself/app/src/main/res/drawable/ic_tick.xml" value="0.1585" />
+        <entry key="..\:/Users/MT13/Desktop/New folder (2)/applocker-main/appLockMyself/app/src/main/res/drawable/ic_tutorial_app_icon.xml" value="0.2135" />
+        <entry key="..\:/Users/MT13/Desktop/New folder (2)/applocker-main/appLockMyself/app/src/main/res/drawable/round_corners.xml" value="0.1" />
+        <entry key="..\:/Users/MT13/Desktop/New folder (2)/applocker-main/appLockMyself/app/src/main/res/layout/activity_choose_language.xml" value="0.264" />
+        <entry key="..\:/Users/MT13/Desktop/New folder (2)/applocker-main/appLockMyself/app/src/main/res/layout/activity_main.xml" value="0.4" />
+        <entry key="..\:/Users/MT13/Desktop/New folder (2)/applocker-main/appLockMyself/app/src/main/res/layout/activity_password.xml" value="0.275" />
+        <entry key="..\:/Users/MT13/Desktop/New folder (2)/applocker-main/appLockMyself/app/src/main/res/layout/activity_permission.xml" value="0.275" />
+        <entry key="..\:/Users/MT13/Desktop/New folder (2)/applocker-main/appLockMyself/app/src/main/res/layout/activity_rate_app.xml" value="0.2" />
+        <entry key="..\:/Users/MT13/Desktop/New folder (2)/applocker-main/appLockMyself/app/src/main/res/layout/activity_request_password.xml" value="0.275" />
+        <entry key="..\:/Users/MT13/Desktop/New folder (2)/applocker-main/appLockMyself/app/src/main/res/layout/activity_set_password.xml" value="0.275" />
+        <entry key="..\:/Users/MT13/Desktop/New folder (2)/applocker-main/appLockMyself/app/src/main/res/layout/activity_splash.xml" value="0.275" />
+        <entry key="..\:/Users/MT13/Desktop/New folder (2)/applocker-main/appLockMyself/app/src/main/res/layout/activity_tutorial_overlay.xml" value="0.275" />
+        <entry key="..\:/Users/MT13/Desktop/New folder (2)/applocker-main/appLockMyself/app/src/main/res/layout/activity_tutorial_usageaccess.xml" value="0.275" />
+        <entry key="..\:/Users/MT13/Desktop/New folder (2)/applocker-main/appLockMyself/app/src/main/res/layout/activity_tutorial_welcome.xml" value="0.4" />
+        <entry key="..\:/Users/MT13/Desktop/New folder (2)/applocker-main/appLockMyself/app/src/main/res/layout/activity_wallpaper.xml" value="0.275" />
+        <entry key="..\:/Users/MT13/Desktop/New folder (2)/applocker-main/appLockMyself/app/src/main/res/layout/app_item.xml" value="0.22614840989399293" />
+        <entry key="..\:/Users/MT13/Desktop/New folder (2)/applocker-main/appLockMyself/app/src/main/res/layout/bg_splash_screen.xml" value="0.275" />
+        <entry key="..\:/Users/MT13/Desktop/New folder (2)/applocker-main/appLockMyself/app/src/main/res/layout/fragment_all_app.xml" value="0.275" />
+        <entry key="..\:/Users/MT13/Desktop/New folder (2)/applocker-main/appLockMyself/app/src/main/res/layout/fragment_apps.xml" value="0.4" />
+        <entry key="..\:/Users/MT13/Desktop/New folder (2)/applocker-main/appLockMyself/app/src/main/res/layout/fragment_blank.xml" value="0.20364583333333333" />
+        <entry key="..\:/Users/MT13/Desktop/New folder (2)/applocker-main/appLockMyself/app/src/main/res/layout/fragment_favorite_app.xml" value="0.275" />
+        <entry key="..\:/Users/MT13/Desktop/New folder (2)/applocker-main/appLockMyself/app/src/main/res/layout/fragment_installed_app.xml" value="0.275" />
+        <entry key="..\:/Users/MT13/Desktop/New folder (2)/applocker-main/appLockMyself/app/src/main/res/layout/fragment_setting.xml" value="0.264" />
+        <entry key="..\:/Users/MT13/Desktop/New folder (2)/applocker-main/appLockMyself/app/src/main/res/layout/fragment_theme.xml" value="0.264" />
+        <entry key="..\:/Users/MT13/Desktop/New folder (2)/applocker-main/appLockMyself/app/src/main/res/layout/ic_next_white.xml" value="0.275" />
+        <entry key="..\:/Users/MT13/Desktop/New folder (2)/applocker-main/appLockMyself/app/src/main/res/layout/private_policy.xml" value="0.176" />
+        <entry key="..\:/Users/MT13/Desktop/New folder (2)/applocker-main/appLockMyself/app/src/main/res/layout/theme.xml" value="0.275" />
+        <entry key="..\:/Users/MT13/Desktop/New folder (2)/applocker-main/appLockMyself/app/src/main/res/layout/toast_custom_layout.xml" value="0.275" />
+        <entry key="..\:/Users/MT13/Desktop/New folder (2)/applocker-main/appLockMyself/app/src/main/res/layout/toast_custom_layout_disoverplay.xml" value="0.275" />
+        <entry key="..\:/appLock/appLockMyself/app/src/main/res/layout/activity_main.xml" value="0.18541666666666667" />
+        <entry key="..\:/appLock/appLockMyself/app/src/main/res/menu/menu_bottom_navi.xml" value="0.149609375" />
+        <entry key="..\:/applocker/appLockMyself/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.109" />
+        <entry key="..\:/applocker/appLockMyself/app/src/main/res/drawable/bg_tab_layout.xml" value="0.109" />
+        <entry key="..\:/applocker/appLockMyself/app/src/main/res/layout/activity_main.xml" value="0.19947916666666668" />
+        <entry key="..\:/applocker/appLockMyself/app/src/main/res/layout/activity_password.xml" value="0.19947916666666668" />
+        <entry key="..\:/applocker/appLockMyself/app/src/main/res/layout/activity_permission.xml" value="0.19947916666666668" />
+        <entry key="..\:/applocker/appLockMyself/app/src/main/res/layout/activity_request_password.xml" value="0.19947916666666668" />
+        <entry key="..\:/applocker/appLockMyself/app/src/main/res/layout/activity_set_password.xml" value="0.19947916666666668" />
+        <entry key="..\:/applocker/appLockMyself/app/src/main/res/layout/activity_splash.xml" value="0.19947916666666668" />
+        <entry key="..\:/applocker/appLockMyself/app/src/main/res/layout/app_item.xml" value="0.18" />
+        <entry key="..\:/applocker/appLockMyself/app/src/main/res/layout/fragment_all_app.xml" value="0.1984375" />
+        <entry key="..\:/applocker/appLockMyself/app/src/main/res/layout/fragment_apps.xml" value="0.19947916666666668" />
+        <entry key="..\:/applocker/appLockMyself/app/src/main/res/layout/fragment_favorite_app.xml" value="0.1984375" />
+        <entry key="..\:/applocker/appLockMyself/app/src/main/res/layout/fragment_installed_app.xml" value="0.1984375" />
+        <entry key="..\:/applocker/appLockMyself/app/src/main/res/layout/fragment_setting.xml" value="0.19947916666666668" />
+        <entry key="..\:/applocker/appLockMyself/app/src/main/res/layout/fragment_theme.xml" value="0.1984375" />
+        <entry key="..\:/applocker/appLockMyself/app/src/main/res/menu/menu_bottom_navi.xml" value="0.19947916666666668" />
+        <entry key="..\:/project_Android_App/applocker-main/appLockMyself/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/source/applocker/appLockMyself/app/src/main/res/layout/fragment_favorite_app.xml" value="0.20416666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
